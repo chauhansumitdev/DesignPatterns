@@ -2,7 +2,7 @@
 
  # Design Patterns 
 
-Design patterns are reusable solutions to common problems that arise in software design. They represent best practices and provide general solutions for recurring design challenges. There are several design patterns categorized into three main groups: creational, structural, and behavioral patterns. Here's a list of some well-known design patterns:
+Reusable solutions to common problems that arise in software design. 
 
 **Creational Patterns:**
 1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it.
@@ -24,5 +24,3 @@ Design patterns are reusable solutions to common problems that arise in software
 3. **Command Pattern:** Encapsulates a request as an object, thereby parameterizing clients with queues, requests, and operations.
 4. **Chain of Responsibility Pattern:** Passes the request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 5. **State Pattern:** Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
-
-These patterns provide proven solutions to common design problems and are widely used in software development to enhance flexibility, maintainability, and scalability.
