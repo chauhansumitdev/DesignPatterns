@@ -4,7 +4,7 @@
 
 Reusable solutions to common problems that arise in software design. 
 
-**Creational Patterns:**
+**Creational Patterns: Creation of objects**
 1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it.
 2. **Factory Method Pattern:** Defines an interface for creating an object but leaves the choice of its type to the subclasses, creating the instance in a factory method.
 3. **Abstract Factory Pattern:** Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
